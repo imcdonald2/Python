@@ -4,3 +4,5 @@ def describe_city(name, country='Japan'):
 describe_city('hong kong')
 describe_city('tokyo')
 describe_city('hiroshima')
+
+print('yes')
