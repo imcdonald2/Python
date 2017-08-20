@@ -1,0 +1,3 @@
+In Python you can create functions
+In Python you can make objects
+In Python you can import modules
